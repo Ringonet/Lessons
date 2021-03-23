@@ -5,9 +5,9 @@ public class Animal {
     private String name = "Some animal";
 
     public void eat(){
-        System.out.println("I am eating");
+        System.out.println("Animal is eating");
     }
     public void sleep(){
-        System.out.println("I am sleeping");
+        System.out.println("Animal is sleeping");
     }
 }
