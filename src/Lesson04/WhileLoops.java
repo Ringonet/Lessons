@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson04;
 
 public class WhileLoops {
     public static void main(String[] args){

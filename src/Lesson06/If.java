@@ -1,4 +1,4 @@
-package Lesson6;
+package Lesson06;
 
 public class If {
     public static void main(String[] args){
