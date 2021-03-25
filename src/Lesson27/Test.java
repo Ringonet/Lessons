@@ -14,6 +14,5 @@ public class Test {
         Squirell squirell1 = new Squirell();
         Scanner scanner1 = new Scanner(System.in);
         SomeClass someClass1 = new SomeClass();
-
     }
 }
