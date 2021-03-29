@@ -10,8 +10,8 @@ public class Test {
         listOfAnimals.add(new Animal(2));
 
         List<Dog> listOfDogs = new ArrayList<>();
-        listOfDogs.add(new Dog(1));
-        listOfDogs.add(new Dog(2));
+        listOfDogs.add(new Dog());
+        listOfDogs.add(new Dog());
 
         test(listOfAnimals);
         test(listOfDogs);
